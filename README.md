@@ -1,5 +1,5 @@
 # Repo_1
-The Public License:
+The Public License:<br/>
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -673,6 +673,6 @@ into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
-About project:
+<https://www.gnu.org/licenses/why-not-lgpl.html>.<br/>
+About project:<br/>
 This is a my PRIVATE REPOSITORY,but there codes are public.And the project is s test project,it not profitability.
